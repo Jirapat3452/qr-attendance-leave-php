@@ -15,5 +15,5 @@
   **Clone โปรเจคนี้**
 
 ```bash
-git clone [https://github.com/yourusername/NodejsLoginRegister.git](https://github.com/Jirapat3452/register-login-nodejs.git)
+git clone https://github.com/Jirapat3452/register-login-nodejs.git
 cd NodejsLoginRegister
